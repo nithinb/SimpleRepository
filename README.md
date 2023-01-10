@@ -1,3 +1,3 @@
 # SimpleRepository
 
-ghs_aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+gho_aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
