@@ -101,7 +101,7 @@ pyarrow==8.0.0
 pyasn1-modules==0.2.8
 pyasn1==0.4.8
 pycparser==2.21
-pycryptodome==3.14.1
+pycryptodome==3.19.1
 pycryptodomex==3.14.1
 pydng==1.1.2
 PyGithub==1.57
